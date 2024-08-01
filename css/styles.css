@@ -1,0 +1,16 @@
+/*Enlace a Google Fonts para obtener la fuente Figtree*/
+@import url('https://fonts.googleapis.com/css2?family=Figtree:ital,wght@0,300..900;1,300..900&display=swap');
+
+/*Estilos generales*/
+* {
+    padding: 0;
+    margin: 0;
+    box-sizing: border-box;
+}
+
+body {
+    background-color: hsl(47, 88%, 63%);
+    font-family: 'Figtree';
+}
+
+/**/
